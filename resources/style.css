@@ -1,0 +1,29 @@
+body {
+  font-family: Helvetica;
+  text-align: Center;
+  
+}
+#title-bar{
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+}
+
+#list-nav{
+    list-style-type: none;
+    font-size: 18px;
+}
+
+
+
+.nav-bar{
+   
+    
+}
+
+#iden-under-exe{
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
